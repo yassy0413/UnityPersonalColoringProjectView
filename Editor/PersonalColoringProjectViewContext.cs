@@ -21,7 +21,7 @@ namespace ColoringProjectView
 
         private static readonly Color DefaultColor = new Color(Color.cyan.r, Color.cyan.g, Color.cyan.b, 0.1f);
 
-        [MenuItem(OpenSettingsWindowMenuPath, false, -100)]
+        [MenuItem(OpenSettingsWindowMenuPath, false)]
         private static void OpenSettingsWindow()
         {
             PersonalColoringProjectViewWindow.ShowWindow();
