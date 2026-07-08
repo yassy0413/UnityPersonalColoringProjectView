@@ -1,0 +1,16 @@
+{
+    "name": "com.yassy.personalcoloringprojectview",
+    "displayName": "Personal Coloring Project View",
+    "version": "1.0.0",
+    "unity": "2020.1",
+    "description": "Simplified coloring project view tool for UnityEditor",
+    "license": "GPL-3.0",
+    "keywords": [
+        "coloring",
+        "ProjectView"
+      ],
+    "author": {
+        "name": "Yasutaka Ishii",
+        "url" : "https://github.com/yassy0413"
+    }
+}
